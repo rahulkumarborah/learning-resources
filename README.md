@@ -1,4 +1,4 @@
-# learning-resources
+# Learning Resources
 Various learning resources for a Web Developer
 
 ******************************************************************************************
