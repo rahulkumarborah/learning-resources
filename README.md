@@ -37,11 +37,23 @@ Free Code Camp
 w3schools
 * https://www.w3schools.com/css/
 
-CSS Selectors
+CSS Selectors - Learn different css selectors exercise
 * https://flukeout.github.io/
 
-Flexbox Froggy
+Flexbox Froggy - Learn flexbox exercise
 * http://flexboxfroggy.com/
+
+CSS Browser Support Reference
+* https://www.w3schools.com/cssref/css3_browsersupport.asp
+
+Can I use - Search css properties for browser compatibility
+* https://caniuse.com/
+
+CSS transition and transforms
+* https://thoughtbot.com/blog/transitions-and-transforms
+
+Free Code Camp
+* https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
 
 Reference websites:
 * https://css-tricks.com/
@@ -50,6 +62,7 @@ Reference websites:
 * https://unsplash.com/
 * https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Cascada_y_herencia
 * https://specificity.keegan.st/
+* http://shouldiprefix.com/
 
 Website for color check:
 * http://paletton.com/
