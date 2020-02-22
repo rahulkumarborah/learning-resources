@@ -38,6 +38,9 @@ Free Code Camp
 ViewPort Meta Tag - Responsiveness for mobile first design
 * https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
 
+Character Encoding - UTF-8
+* https://www.quora.com/What-is-UTF8
+
 ******************************************************************************************
 ## 4. __CSS__
 
@@ -61,6 +64,9 @@ CSS transition and transforms
 
 Free Code Camp
 * https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+
+Perfect Cover Background
+* https://css-tricks.com/perfect-full-page-background-image/
 
 Reference websites:
 * https://css-tricks.com/
