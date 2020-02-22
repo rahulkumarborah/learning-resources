@@ -1,5 +1,5 @@
 # learning-resources
-Various learning resources for a __Web Developer__
+Various learning resources for a Web Developer
 
 ******************************************************************************************
 ## Free Resources
