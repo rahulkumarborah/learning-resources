@@ -2,8 +2,8 @@
 Various learning resources for a __Web Developer__
 ******************************************************************************************
 ## Free Resources
-ZTM : https://zerotomastery.io/resources/
-Critical Rendering Path : https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+* ZTM : https://zerotomastery.io/resources/
+* Critical Rendering Path : https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
 
 ******************************************************************************************
 ## 1. __How the Internet Works?__
