@@ -83,3 +83,8 @@ Website for color check:
 
 Website for fonts download:
 * https://fonts.google.com/
+
+******************************************************************************************
+## 5. __Mailchimp Mailing Service__
+* https://mailchimp.com/
+* https://mailchimp.com/help/create-a-landing-page/
