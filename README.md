@@ -3,6 +3,7 @@ Various learning resources for a __Web Developer__
 ******************************************************************************************
 ## Free Resources
 ZTM : https://zerotomastery.io/resources/
+Critical Rendering Path : https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
 
 ******************************************************************************************
 ## 1. __How the Internet Works?__
@@ -33,6 +34,9 @@ w3schools
 
 Free Code Camp
 * https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5
+
+ViewPort Meta Tag - Responsiveness for mobile first design
+* https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
 
 ******************************************************************************************
 ## 4. __CSS__
