@@ -5,6 +5,7 @@ Various learning resources for a Web Developer
 ## Free Resources
 * ZTM : https://zerotomastery.io/resources/
 * Critical Rendering Path : https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+* Creative Tim (UI Kits): https://www.creative-tim.com/
 
 ******************************************************************************************
 ## 1. __How the Internet Works?__
