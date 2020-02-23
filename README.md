@@ -82,6 +82,9 @@ CSS Grid System
 * http://grid.malven.co/
 * http://cssgridgarden.com/
 
+Media Queries for Standard Devices
+* https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
 Reference websites:
 * https://css-tricks.com/
 * https://www.supremo.co.uk/typeterms/
