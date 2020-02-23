@@ -78,8 +78,9 @@ Perfect Cover Background
 Animate.css
 * https://daneden.github.io/animate.css/
 
-CSS Grid Cheatsheet
+CSS Grid System
 * http://grid.malven.co/
+* http://cssgridgarden.com/
 
 Reference websites:
 * https://css-tricks.com/
