@@ -6,7 +6,11 @@ Various learning resources for a Web Developer
 * ZTM : https://zerotomastery.io/resources/
 * Critical Rendering Path : https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
 * Creative Tim (UI Kits): https://www.creative-tim.com/
-* HTML5/CSS TEmplate : http://www.mashup-template.com/templates.html
+* HTML5/CSS TEmplate : 
+http://www.mashup-template.com/templates.html
+https://startbootstrap.com/templates/
+https://mdbootstrap.com/freebies/
+https://cruip.com/
 
 ******************************************************************************************
 ## 1. __How the Internet Works?__
