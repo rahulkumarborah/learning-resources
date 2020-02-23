@@ -69,6 +69,9 @@ Free Code Camp
 Perfect Cover Background
 * https://css-tricks.com/perfect-full-page-background-image/
 
+Animate.css
+* https://daneden.github.io/animate.css/
+
 Reference websites:
 * https://css-tricks.com/
 * https://www.supremo.co.uk/typeterms/
