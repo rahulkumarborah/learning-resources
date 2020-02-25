@@ -57,6 +57,10 @@ Character Encoding - UTF-8
 HTML DOM
 * https://www.w3schools.com/js/js_htmldom.asp
 
+HTML DOM Events
+* https://developer.mozilla.org/en-US/docs/Web/Events
+* https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+
 ******************************************************************************************
 ## 4. __CSS__
 
