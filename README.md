@@ -119,3 +119,7 @@ Website for fonts download:
 ## 5. __Mailchimp Mailing Service__
 * https://mailchimp.com/
 * https://mailchimp.com/help/create-a-landing-page/
+
+******************************************************************************************
+## 6. __Javascript__
+* https://blog.codeanalogies.com/2016/04/11/javascript-callbacks-explained-using-minions/
