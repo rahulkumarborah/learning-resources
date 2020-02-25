@@ -123,3 +123,4 @@ Website for fonts download:
 ******************************************************************************************
 ## 6. __Javascript__
 * https://blog.codeanalogies.com/2016/04/11/javascript-callbacks-explained-using-minions/
+* http://youmightnotneedjquery.com/
