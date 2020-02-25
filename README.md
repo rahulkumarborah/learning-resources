@@ -3,14 +3,20 @@ Various learning resources for a Web Developer
 
 ******************************************************************************************
 ## Free Resources
-* ZTM : https://zerotomastery.io/resources/
-* Critical Rendering Path : https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
-* Creative Tim (UI Kits): https://www.creative-tim.com/
-* HTML5/CSS TEmplate : 
-http://www.mashup-template.com/templates.html
-https://startbootstrap.com/templates/
-https://mdbootstrap.com/freebies/
-https://cruip.com/
+ZTM 
+* https://zerotomastery.io/resources/
+
+Critical Rendering Path
+* https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+
+Creative Tim (UI Kits):
+* https://www.creative-tim.com/
+
+HTML5/CSS Template 
+* http://www.mashup-template.com/templates.html
+* https://startbootstrap.com/templates/
+* https://mdbootstrap.com/freebies/
+* https://cruip.com/
 
 ******************************************************************************************
 ## 1. __How the Internet Works?__
@@ -47,6 +53,9 @@ ViewPort Meta Tag - Responsiveness for mobile first design
 
 Character Encoding - UTF-8
 * https://www.quora.com/What-is-UTF8
+
+HTML DOM
+* https://www.w3schools.com/js/js_htmldom.asp
 
 ******************************************************************************************
 ## 4. __CSS__
