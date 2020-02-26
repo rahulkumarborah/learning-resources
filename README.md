@@ -6,6 +6,9 @@ Various learning resources for a Web Developer
 ZTM 
 * https://zerotomastery.io/resources/
 
+Share Code Snippets
+* https://carbon.now.sh/
+
 Critical Rendering Path
 * https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
 
