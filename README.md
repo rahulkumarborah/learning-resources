@@ -128,6 +128,7 @@ Website for fonts download:
 * https://blog.codeanalogies.com/2016/04/11/javascript-callbacks-explained-using-minions/
 * http://youmightnotneedjquery.com/
 * https://javascript.info/
+* https://sdras.github.io/array-explorer/
 
 ******************************************************************************************
 ## 7. __Data Structures__
