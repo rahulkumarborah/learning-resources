@@ -129,6 +129,8 @@ Website for fonts download:
 * http://youmightnotneedjquery.com/
 * https://javascript.info/
 * https://sdras.github.io/array-explorer/
+* http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/
+* https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 
 ******************************************************************************************
 ## 7. __Data Structures__
