@@ -136,3 +136,8 @@ Website for fonts download:
 ## 7. __Data Structures__
 * https://nptel.ac.in/courses/106/102/106102064/
 
+******************************************************************************************
+## 8. __Visual Studio Code__
+* https://github.com/viatsko/awesome-vscode
+
+
