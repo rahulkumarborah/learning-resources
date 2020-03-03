@@ -21,6 +21,11 @@ HTML5/CSS Template
 * https://mdbootstrap.com/freebies/
 * https://cruip.com/
 
+Developer Read Resources
+* https://softwareengineeringdaily.com/
+* https://medium.com/zerotomastery
+* https://javascriptweekly.com/
+
 ******************************************************************************************
 ## 1. __How the Internet Works?__
 
