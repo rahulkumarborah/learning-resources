@@ -1,3 +1,5 @@
+// reactstrap components
+import { Container } from "reactstrap";
 /*!
 
 =========================================================
@@ -19,9 +21,6 @@
 /*eslint-disable*/
 import React from "react";
 
-// reactstrap components
-import { Container } from "reactstrap";
-
 // core components
 
 function IndexHeader() {
@@ -31,33 +30,33 @@ function IndexHeader() {
         className="page-header section-dark"
         style={{
           backgroundImage:
-            "url(" + require("assets/img/antoine-barres.jpg") + ")"
+            "url(" + require("assets/img/bookish.jpg") + ")"
         }}
       >
         <div className="filter" />
         <div className="content-center">
           <Container>
             <div className="title-brand">
-              <h1 className="presentation-title">Paper Kit React</h1>
-              <div className="fog-low">
+              <h1 className="presentation-title">Learn Web Dev</h1>
+              {/* <div className="fog-low">
                 <img alt="..." src={require("assets/img/fog-low.png")} />
               </div>
               <div className="fog-low right">
                 <img alt="..." src={require("assets/img/fog-low.png")} />
-              </div>
+              </div> */}
             </div>
             <h2 className="presentation-subtitle text-center">
-              Make your mark with a Free Bootstrap 4 (Reactstrap) UI Kit!
+              Find various web development Resources
             </h2>
           </Container>
         </div>
-        <div
+        {/* <div
           className="moving-clouds"
           style={{
             backgroundImage: "url(" + require("assets/img/clouds.png") + ")"
           }}
-        />
-        <h6 className="category category-absolute">
+        /> */}
+        {/* <h6 className="category category-absolute">
           Designed and coded by{" "}
           <a
             href="https://www.creative-tim.com?ref=pkr-index-page"
@@ -69,7 +68,7 @@ function IndexHeader() {
               src={require("assets/img/creative-tim-white-slim2.png")}
             />
           </a>
-        </h6>
+        </h6> */}
       </div>
     </>
   );

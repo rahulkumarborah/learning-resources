@@ -1,3 +1,6 @@
+// reactstrap components
+import { Container, Row } from "reactstrap";
+
 /*!
 
 =========================================================
@@ -19,15 +22,12 @@
 /*eslint-disable*/
 import React from "react";
 
-// reactstrap components
-import { Row, Container } from "reactstrap";
-
 function DemoFooter() {
   return (
     <footer className="footer footer-black footer-white">
       <Container>
         <Row>
-          <nav className="footer-nav">
+          {/* <nav className="footer-nav">
             <ul>
               <li>
                 <a
@@ -54,11 +54,11 @@ function DemoFooter() {
                 </a>
               </li>
             </ul>
-          </nav>
+          </nav> */}
           <div className="credits ml-auto">
             <span className="copyright">
               © {new Date().getFullYear()}, made with{" "}
-              <i className="fa fa-heart heart" /> by Creative Tim
+              <i className="fa fa-heart heart" /> by Rahul Kumar Borah
             </span>
           </div>
         </Row>
