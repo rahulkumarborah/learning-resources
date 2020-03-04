@@ -136,6 +136,7 @@ Website for fonts download:
 * https://sdras.github.io/array-explorer/
 * http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/
 * https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+* https://codetower.github.io/es6-features/
 
 ******************************************************************************************
 ## 7. __Data Structures__
