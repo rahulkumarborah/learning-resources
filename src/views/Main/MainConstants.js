@@ -45,8 +45,7 @@ export const learningResources = [
     links: [
       {
         description: "Submarine Cable Map",
-        url:
-          "https://www.submarinecablemap.com/"
+        url: "https://www.submarinecablemap.com/"
       }
     ]
   },
@@ -262,6 +261,21 @@ export const learningResources = [
       {
         description: "ES6 Features",
         url: "https://codetower.github.io/es6-features/"
+      },
+      {
+        description: "Clean Code Naming",
+        url:
+          "https://levelup.gitconnected.com/javascript-clean-code-naming-9a8308843a17"
+      },
+      {
+        description: "Clean Code Functions",
+        url:
+          "https://levelup.gitconnected.com/javascript-clean-code-functions-f719c326d624"
+      },
+      {
+        description: "Commonly used design patterns in JS",
+        url:
+          "https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002"
       }
     ]
   },
