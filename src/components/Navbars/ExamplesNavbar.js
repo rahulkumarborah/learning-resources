@@ -1,3 +1,15 @@
+// reactstrap components
+import {
+  Collapse,
+  Container,
+  Nav,
+  NavItem,
+  NavLink,
+  Navbar,
+  NavbarBrand
+} from "reactstrap";
+
+import { Link } from "react-router-dom";
 /*!
 
 =========================================================
@@ -17,20 +29,8 @@
 
 */
 import React from "react";
-import { Link } from "react-router-dom";
 // nodejs library that concatenates strings
 import classnames from "classnames";
-
-// reactstrap components
-import {
-  Collapse,
-  NavbarBrand,
-  Navbar,
-  NavItem,
-  NavLink,
-  Nav,
-  Container
-} from "reactstrap";
 
 function ExamplesNavbar() {
   const [navbarColor, setNavbarColor] = React.useState("navbar-transparent");
@@ -74,7 +74,7 @@ function ExamplesNavbar() {
             data-placement="bottom"
             to="/index"
             target="_blank"
-            title="Coded by Creative Tim"
+            title="Learn Web Development"
             tag={Link}
           >
             Paper Kit 2

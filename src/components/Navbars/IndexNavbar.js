@@ -69,7 +69,7 @@ function IndexNavbar() {
             data-placement="bottom"
             href="/index"
             target="_blank"
-            title="Coded by Creative Tim"
+            title="Learn Web Development"
           >
             LEARN WEB DEV
           </NavbarBrand>
