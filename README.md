@@ -138,6 +138,11 @@ Website for fonts download:
 * https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 * https://codetower.github.io/es6-features/
 
+_Best Practices_
+* https://levelup.gitconnected.com/javascript-clean-code-naming-9a8308843a17
+* https://levelup.gitconnected.com/javascript-clean-code-functions-f719c326d624
+* https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002
+
 ******************************************************************************************
 ## 7. __Data Structures__
 * https://nptel.ac.in/courses/106/102/106102064/
