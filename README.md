@@ -157,6 +157,9 @@ _Best Practices_
 _NPM_
 * https://semver.npmjs.com/
 
+_Service Worker_
+* https://developers.google.com/web/fundamentals/primers/service-workers/
+
 ******************************************************************************************
 ## 7. __Data Structures__
 * https://nptel.ac.in/courses/106/102/106102064/
