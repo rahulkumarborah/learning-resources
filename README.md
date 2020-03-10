@@ -162,4 +162,9 @@ _NPM_
 ## 8. __Visual Studio Code__
 * https://github.com/viatsko/awesome-vscode
 
+******************************************************************************************
+## 9. __React__
+Atomic Design
+* https://atomicdesign.bradfrost.com/
+
 
