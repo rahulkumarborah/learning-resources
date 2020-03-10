@@ -27,6 +27,10 @@ Developer Read Resources
 * https://medium.com/zerotomastery
 * https://javascriptweekly.com/
 
+Create Portfolio
+* https://github.com/cobidev/simplefolio
+* https://hatchful.shopify.com/
+
 ******************************************************************************************
 ## 1. __How the Internet Works?__
 
