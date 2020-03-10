@@ -167,4 +167,6 @@ _NPM_
 Atomic Design
 * https://atomicdesign.bradfrost.com/
 
-
+Create React App
+* https://github.com/facebook/create-react-app
+* https://create-react-app.dev/docs/getting-started/
