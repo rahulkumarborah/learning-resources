@@ -144,6 +144,9 @@ _Best Practices_
 * https://levelup.gitconnected.com/javascript-clean-code-functions-f719c326d624
 * https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002
 
+_NPM_
+* https://semver.npmjs.com/
+
 ******************************************************************************************
 ## 7. __Data Structures__
 * https://nptel.ac.in/courses/106/102/106102064/
