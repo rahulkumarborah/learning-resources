@@ -5,6 +5,7 @@ Various learning resources for a Web Developer
 ## Free Resources
 ZTM 
 * https://zerotomastery.io/resources/
+* https://zero-to-mastery.github.io/resources/
 
 Share Code Snippets
 * https://carbon.now.sh/
