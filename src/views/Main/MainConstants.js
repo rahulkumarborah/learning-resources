@@ -6,6 +6,10 @@ export const learningResources = [
         description: "Zero to Mastery",
         url: "https://zerotomastery.io/resources/"
       },
+      {
+        description: "Zero to Mastery",
+        url: "https://zero-to-mastery.github.io/resources/"
+      },
       { description: "Share code snippets", url: "https://carbon.now.sh/" },
       {
         description: "Critical Rendering Path",
@@ -37,7 +41,9 @@ export const learningResources = [
         description: "Medium - Zero to Mastery",
         url: "https://medium.com/zerotomastery"
       },
-      { description: "Javascript Weekly", url: "https://javascriptweekly.com/" }
+      { description: "Javascript Weekly", url: "https://javascriptweekly.com/" },
+      { description: "Portfolio", url: "https://github.com/cobidev/simplefolio" },
+      { description: "Logo Maker", url: "https://hatchful.shopify.com/" }
     ]
   },
   {
@@ -217,6 +223,9 @@ export const learningResources = [
       {
         description: "Website for fonts download",
         url: "https://fonts.google.com/"
+      },
+      { description: "Difference between css and scss",
+        url: "https://stackoverflow.com/questions/46400443/what-is-the-difference-between-css-and-scss"
       }
     ]
   },
@@ -276,6 +285,10 @@ export const learningResources = [
         description: "Commonly used design patterns in JS",
         url:
           "https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002"
+      },
+      {
+        description: "Semantic Versioning NPM",
+        url: "https://semver.npmjs.com/"
       }
     ]
   },
@@ -295,6 +308,23 @@ export const learningResources = [
         description: "Awesome Extensions",
         url: "https://github.com/viatsko/awesome-vscode"
       }
+    ]
+  },
+  {
+    title: "React",
+    links: [
+      {
+        description: "Atomic Design",
+        url: "https://atomicdesign.bradfrost.com/"
+      },
+      {
+        description: "Create React App Github",
+        url: "https://github.com/facebook/create-react-app"
+      },
+      {
+        description: "CRA Docs",
+        url: "https://create-react-app.dev/docs/getting-started/"
+      },
     ]
   }
 ];
