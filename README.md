@@ -128,6 +128,9 @@ Website for color check:
 Website for fonts download:
 * https://fonts.google.com/
 
+SCSS:
+* https://stackoverflow.com/questions/46400443/what-is-the-difference-between-css-and-scss
+
 ******************************************************************************************
 ## 5. __Mailchimp Mailing Service__
 * https://mailchimp.com/
