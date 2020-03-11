@@ -134,6 +134,10 @@ Website for fonts download:
 SCSS:
 * https://stackoverflow.com/questions/46400443/what-is-the-difference-between-css-and-scss
 
+Font Face
+* https://css-tricks.com/snippets/css/using-font-face/
+* https://www.cufonfonts.com/font/sega-logo-font
+
 ******************************************************************************************
 ## 5. __Mailchimp Mailing Service__
 * https://mailchimp.com/
