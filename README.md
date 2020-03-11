@@ -185,3 +185,7 @@ Create React App
 Handling Events
 * https://reactjs.org/docs/handling-events.html
 * https://www.smashingmagazine.com/2014/01/understanding-javascript-function-prototype-bind/
+
+Lifecycle Hooks
+* https://reactjs.org/docs/react-component.html
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
