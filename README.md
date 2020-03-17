@@ -164,6 +164,9 @@ _NPM_
 _Service Worker_
 * https://developers.google.com/web/fundamentals/primers/service-workers/
 
+_EcmaScript_
+* https://github.com/daumann/ECMAScript-new-features-list
+
 ******************************************************************************************
 ## 7. __Data Structures__
 * https://nptel.ac.in/courses/106/102/106102064/
