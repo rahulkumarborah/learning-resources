@@ -34,6 +34,17 @@ Create Portfolio
 Robohash
 * https://robohash.org/
 
+VS Code Extensions
+* Night Owl : https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
+* Bookmarks : https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
+* Bracket Pair Colorizer 2 : https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+* ES7 React Snippets : https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+* FIRA Code : https://github.com/tonsky/FiraCode
+* ES Lint : https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+* Gitlens : https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+* Sort Imports : https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports
+* Prettier : https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
 ******************************************************************************************
 ## 1. __How the Internet Works?__
 
