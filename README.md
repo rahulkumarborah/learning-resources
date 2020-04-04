@@ -44,6 +44,7 @@ VS Code Extensions
 * Gitlens : https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 * Sort Imports : https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports
 * Prettier : https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+* Import Cost : https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
 
 ******************************************************************************************
 ## 1. __How the Internet Works?__
