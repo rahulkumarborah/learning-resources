@@ -212,3 +212,4 @@ Useful APIs
 * http://swapi.py4e.com/
 * https://pokeapi.co/
 * http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+* https://public-apis.xyz/
