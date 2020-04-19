@@ -213,3 +213,4 @@ Useful APIs
 * https://pokeapi.co/
 * http://open-notify.org/Open-Notify-API/ISS-Location-Now/
 * https://public-apis.xyz/
+* https://www.ibm.com/cloud/watson-speech-to-text
