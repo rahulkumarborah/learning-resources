@@ -204,3 +204,11 @@ Handling Events
 Lifecycle Hooks
 * https://reactjs.org/docs/react-component.html
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+******************************************************************************************
+## 10. __Backend__
+Useful APIs
+* https://api.chucknorris.io/
+* http://swapi.py4e.com/
+* https://pokeapi.co/
+* http://open-notify.org/Open-Notify-API/ISS-Location-Now/
