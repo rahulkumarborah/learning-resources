@@ -219,3 +219,4 @@ Useful APIs
 * https://public-apis.xyz/
 * https://www.ibm.com/cloud/watson-speech-to-text
 * https://play.elevatorsaga.com/
+* https://www.clarifai.com/developer Face Detection
