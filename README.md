@@ -205,6 +205,10 @@ Lifecycle Hooks
 * https://reactjs.org/docs/react-component.html
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
+Styling
+* Particles JS https://vincentgarreau.com/particles.js/#default
+* Tilt JS https://github.com/jonathandion/react-tilt
+
 ******************************************************************************************
 ## 10. __Backend__
 Useful APIs
