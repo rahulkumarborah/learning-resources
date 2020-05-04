@@ -179,6 +179,9 @@ _Service Worker_
 _EcmaScript_
 * https://github.com/daumann/ECMAScript-new-features-list
 
+_Clean Code_
+* https://github.com/ryanmcdermott/clean-code-javascript
+
 ******************************************************************************************
 ## 7. __Data Structures__
 * https://nptel.ac.in/courses/106/102/106102064/
